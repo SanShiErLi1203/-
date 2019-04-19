@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/my-shop.iml" filepath="$PROJECT_DIR$/my-shop.iml" />
+      <module fileurl="file://$PROJECT_DIR$/my-shop-activiti/my-shop-activiti.iml" filepath="$PROJECT_DIR$/my-shop-activiti/my-shop-activiti.iml" />
+      <module fileurl="file://$PROJECT_DIR$/my-shop-api/my-shop-api.iml" filepath="$PROJECT_DIR$/my-shop-api/my-shop-api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/my-shop-cache/my-shop-cache.iml" filepath="$PROJECT_DIR$/my-shop-cache/my-shop-cache.iml" />
+      <module fileurl="file://$PROJECT_DIR$/my-shop-cms/my-shop-cms.iml" filepath="$PROJECT_DIR$/my-shop-cms/my-shop-cms.iml" />
+      <module fileurl="file://$PROJECT_DIR$/my-shop-common/my-shop-common.iml" filepath="$PROJECT_DIR$/my-shop-common/my-shop-common.iml" />
+      <module fileurl="file://$PROJECT_DIR$/my-shop-config/my-shop-config.iml" filepath="$PROJECT_DIR$/my-shop-config/my-shop-config.iml" />
+      <module fileurl="file://$PROJECT_DIR$/my-shop-crm/my-shop-crm.iml" filepath="$PROJECT_DIR$/my-shop-crm/my-shop-crm.iml" />
+      <module fileurl="file://$PROJECT_DIR$/my-shop-erp/my-shop-erp.iml" filepath="$PROJECT_DIR$/my-shop-erp/my-shop-erp.iml" />
+      <module fileurl="file://$PROJECT_DIR$/my-shop-fast/my-shop-fast.iml" filepath="$PROJECT_DIR$/my-shop-fast/my-shop-fast.iml" />
+      <module fileurl="file://$PROJECT_DIR$/my-shop-gen/my-shop-gen.iml" filepath="$PROJECT_DIR$/my-shop-gen/my-shop-gen.iml" />
+      <module fileurl="file://$PROJECT_DIR$/my-shop-goods/my-shop-goods.iml" filepath="$PROJECT_DIR$/my-shop-goods/my-shop-goods.iml" />
+      <module fileurl="file://$PROJECT_DIR$/my-shop-im/my-shop-im.iml" filepath="$PROJECT_DIR$/my-shop-im/my-shop-im.iml" />
+      <module fileurl="file://$PROJECT_DIR$/my-shop-manager/my-shop-manager.iml" filepath="$PROJECT_DIR$/my-shop-manager/my-shop-manager.iml" />
+      <module fileurl="file://$PROJECT_DIR$/my-shop-member/my-shop-member.iml" filepath="$PROJECT_DIR$/my-shop-member/my-shop-member.iml" />
+      <module fileurl="file://$PROJECT_DIR$/my-shop-merchants/my-shop-merchants.iml" filepath="$PROJECT_DIR$/my-shop-merchants/my-shop-merchants.iml" />
+      <module fileurl="file://$PROJECT_DIR$/my-shop-mq/my-shop-mq.iml" filepath="$PROJECT_DIR$/my-shop-mq/my-shop-mq.iml" />
+      <module fileurl="file://$PROJECT_DIR$/my-shop-order/my-shop-order.iml" filepath="$PROJECT_DIR$/my-shop-order/my-shop-order.iml" />
+      <module fileurl="file://$PROJECT_DIR$/my-shop-oss/my-shop-oss.iml" filepath="$PROJECT_DIR$/my-shop-oss/my-shop-oss.iml" />
+      <module fileurl="file://$PROJECT_DIR$/my-shop-pay/my-shop-pay.iml" filepath="$PROJECT_DIR$/my-shop-pay/my-shop-pay.iml" />
+      <module fileurl="file://$PROJECT_DIR$/my-shop-pointsmall/my-shop-pointsmall.iml" filepath="$PROJECT_DIR$/my-shop-pointsmall/my-shop-pointsmall.iml" />
+      <module fileurl="file://$PROJECT_DIR$/my-shop-reports/my-shop-reports.iml" filepath="$PROJECT_DIR$/my-shop-reports/my-shop-reports.iml" />
+      <module fileurl="file://$PROJECT_DIR$/my-shop-schedule/my-shop-schedule.iml" filepath="$PROJECT_DIR$/my-shop-schedule/my-shop-schedule.iml" />
+      <module fileurl="file://$PROJECT_DIR$/my-shop-search/my-shop-search.iml" filepath="$PROJECT_DIR$/my-shop-search/my-shop-search.iml" />
+      <module fileurl="file://$PROJECT_DIR$/my-shop-shiro/my-shop-shiro.iml" filepath="$PROJECT_DIR$/my-shop-shiro/my-shop-shiro.iml" />
+      <module fileurl="file://$PROJECT_DIR$/my-shop-ucenter/my-shop-ucenter.iml" filepath="$PROJECT_DIR$/my-shop-ucenter/my-shop-ucenter.iml" />
+      <module fileurl="file://$PROJECT_DIR$/my-shop-web/my-shop-web.iml" filepath="$PROJECT_DIR$/my-shop-web/my-shop-web.iml" />
+      <module fileurl="file://$PROJECT_DIR$/my-shop-webchat/my-shop-webchat.iml" filepath="$PROJECT_DIR$/my-shop-webchat/my-shop-webchat.iml" />
+      <module fileurl="file://$PROJECT_DIR$/my-shop-wms/my-shop-wms.iml" filepath="$PROJECT_DIR$/my-shop-wms/my-shop-wms.iml" />
+    </modules>
+  </component>
+</project>

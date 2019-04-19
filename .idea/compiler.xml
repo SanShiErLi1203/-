@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="my-shop-activiti" />
+        <module name="my-shop-api" />
+        <module name="my-shop-cache" />
+        <module name="my-shop-cms" />
+        <module name="my-shop-common" />
+        <module name="my-shop-config" />
+        <module name="my-shop-crm" />
+        <module name="my-shop-erp" />
+        <module name="my-shop-fast" />
+        <module name="my-shop-gen" />
+        <module name="my-shop-goods" />
+        <module name="my-shop-im" />
+        <module name="my-shop-manager" />
+        <module name="my-shop-member" />
+        <module name="my-shop-merchants" />
+        <module name="my-shop-mq" />
+        <module name="my-shop-order" />
+        <module name="my-shop-oss" />
+        <module name="my-shop-pay" />
+        <module name="my-shop-pointsmall" />
+        <module name="my-shop-reports" />
+        <module name="my-shop-schedule" />
+        <module name="my-shop-search" />
+        <module name="my-shop-shiro" />
+        <module name="my-shop-ucenter" />
+        <module name="my-shop-web" />
+        <module name="my-shop-webchat" />
+        <module name="my-shop-wms" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="my-shop" target="1.8" />
+      <module name="my-shop-activiti" target="1.8" />
+      <module name="my-shop-api" target="1.8" />
+      <module name="my-shop-cache" target="1.8" />
+      <module name="my-shop-cms" target="1.8" />
+      <module name="my-shop-common" target="1.8" />
+      <module name="my-shop-config" target="1.8" />
+      <module name="my-shop-crm" target="1.8" />
+      <module name="my-shop-erp" target="1.8" />
+      <module name="my-shop-fast" target="1.8" />
+      <module name="my-shop-gen" target="1.8" />
+      <module name="my-shop-goods" target="1.8" />
+      <module name="my-shop-im" target="1.8" />
+      <module name="my-shop-manager" target="1.8" />
+      <module name="my-shop-member" target="1.8" />
+      <module name="my-shop-merchants" target="1.8" />
+      <module name="my-shop-mq" target="1.8" />
+      <module name="my-shop-order" target="1.8" />
+      <module name="my-shop-oss" target="1.8" />
+      <module name="my-shop-pay" target="1.8" />
+      <module name="my-shop-pointsmall" target="1.8" />
+      <module name="my-shop-reports" target="1.8" />
+      <module name="my-shop-schedule" target="1.8" />
+      <module name="my-shop-search" target="1.8" />
+      <module name="my-shop-shiro" target="1.8" />
+      <module name="my-shop-ucenter" target="1.8" />
+      <module name="my-shop-web" target="1.8" />
+      <module name="my-shop-webchat" target="1.8" />
+      <module name="my-shop-wms" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

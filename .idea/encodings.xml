@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding" addBOMForNewFiles="with NO BOM">
+    <file url="file://$PROJECT_DIR$" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/my-shop-activiti" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/my-shop-api" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/my-shop-cache" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/my-shop-cms" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/my-shop-common" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/my-shop-config" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/my-shop-crm" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/my-shop-erp" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/my-shop-fast" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/my-shop-gen" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/my-shop-goods" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/my-shop-im" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/my-shop-manager" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/my-shop-member" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/my-shop-merchants" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/my-shop-mq" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/my-shop-order" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/my-shop-oss" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/my-shop-pay" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/my-shop-pointsmall" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/my-shop-reports" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/my-shop-schedule" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/my-shop-search" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/my-shop-shiro" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/my-shop-ucenter" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/my-shop-web" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/my-shop-webchat" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/my-shop-wms" charset="UTF-8" />
+  </component>
+</project>
